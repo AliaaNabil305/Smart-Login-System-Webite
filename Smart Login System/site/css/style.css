@@ -1,0 +1,39 @@
+body{
+    background-color: #24353F;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar{
+    background-color: #24353F !important;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0) !important;
+}
+
+.text-grey{
+    color: #FFFFFF80;
+}
+.nav-link{
+    margin-right: 100px !important;
+    transition: all 0.7s !important;
+}
+
+.nav-link:hover{
+    background-color: rgb(255, 136, 0);
+    color: white;
+}
+.cont
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.content{
+    background-color: #24353F !important;
+    box-shadow: -5px 2px 54px -9px rgb(0 0 0) !important;
+    width: 60% !important;
+}
+.heading{
+    color: #17A2B8;
+}
